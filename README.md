@@ -50,6 +50,8 @@ Verifique o arquivo "out/summary.csv" no mesmo diretório para visualizar os res
 
 Certifique-se de que o arquivo CSV de origem contenha dados válidos no formato esperado para garantir o bom funcionamento do programa.
 
+![Screenshot_21](https://github.com/TiagoMuller/Code_ManipulationFile/assets/39675368/759cf8e4-e349-4380-8aa0-dab1e0b86df8)
+
 --------------------------------
 
 # File Manipulation
